@@ -1,0 +1,79 @@
+html,body
+{
+    height: 100%;
+    font-size:1rem;
+    margin: 0px;
+    padding: 0px;
+    
+}
+nav{
+    padding: 0!important;
+}
+.bor1{
+    border-left: 1px solid rgb(212, 212, 212);
+}
+.fix-margin{
+    margin-top: 0.2rem;
+}
+a
+{
+    padding-right: 0!important;
+}
+.bor2
+{
+    border-right: 1px solid rgb(212, 212, 212);
+}
+.fix1
+{
+    margin: 0rem 4rem;
+}
+.margin-fix{
+    margin: 4rem 1rem 0rem 3rem;
+}
+.margin-right-fix
+{
+    margin-right: 7rem;
+    margin-top: 0;
+    font-weight: 900!important;
+    color: #e4e8f9;
+}
+.bg-custom
+{
+    background-color: #f4f4f4;
+}
+#fix-pad{
+    padding-right: 0.56rem;
+}
+.fix2{
+    padding: 10px;
+}
+.border3{
+    border-left: 1px solid #e0e0e0;
+}
+.fix-tag-a
+{
+    text-decoration: none;
+}
+.padding-fixing{
+    padding-right: 0.4rem!important;
+}
+.custom-padding
+{
+    padding: 0.5rem 0.5rem 0rem 0.5rem;
+}
+.radius-10
+{
+    border-radius: 7px;
+}
+.pad-fixation
+{
+    padding: 4px 6px;
+}
+#forsat button:hover{
+    background-color: darkblue;
+    color: orange!important;
+}
+#adjustment
+{
+    padding: 0rem;
+}
